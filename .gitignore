@@ -1,0 +1,5 @@
+freeCodeCamp.org/.terraform/**
+.terraform/**
+.terraform*
+./.terraform/**
+.log

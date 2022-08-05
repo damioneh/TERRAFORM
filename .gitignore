@@ -1,4 +1,5 @@
 ./freeCodeCamp.org/.terraform/**
+freeCodeCamp.org/
 .terraform/**
 .terraform*
 ./.terraform/**
